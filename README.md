@@ -6,6 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Screenshoot
+![Screenshot 2024-02-26 212553](https://github.com/ugunNet21/laravel10-api-vue3/assets/45864165/5ffa3c2e-614e-4d00-8556-188a936bb21b)
+![Screenshot 2024-02-26 212509](https://github.com/ugunNet21/laravel10-api-vue3/assets/45864165/e92955c3-0612-4c49-8013-e5cb52a7b057)
+
 
 ## About Laravel
 
